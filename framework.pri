@@ -72,6 +72,8 @@ INCLUDEPATH += \
     $$CC_ROOT_PATH/cocos/audio/include \
     $$CC_ROOT_PATH/extensions \
     $$CC_ROOT_PATH/external \
+    $$CC_ROOT_PATH/external/bullet/include \
+    $$CC_ROOT_PATH/external/bullet/include/bullet \
     $$CC_ROOT_PATH/external/chipmunk/include/chipmunk \
 
 macx{

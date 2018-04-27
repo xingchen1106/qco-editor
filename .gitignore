@@ -58,3 +58,6 @@ project.xcworkspace/
 [dD]ebug/
 [rR]elease/
 GeneratedFiles/
+libcocos2d.sdf
+libcocos2d.opensdf
+Debug.win32/libcocos2d.exp
