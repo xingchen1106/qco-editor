@@ -9,7 +9,7 @@ namespace Editor
     Canvas::Canvas(QObject *parent, GLWidget *view)
         : QObject(parent)
         , gizmoMode_(GizmoMode::None)
-        , canvasSize_(cocos2d::Size(480.0f, 640.0f))
+        , canvasSize_(cocos2d::Size(720.0f, 1280.0f))
     {
         connect(view, SIGNAL(signalMouseEvent(QMouseEvent*)), this, SLOT(onMouseEvent(QMouseEvent*)));
         connect(view, SIGNAL(signalKeyEvent(QKeyEvent*)), this, SLOT(onKeyEvent(QKeyEvent*)));
