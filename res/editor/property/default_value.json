@@ -167,6 +167,7 @@
 		"maxPercent" : 100
 	},
 	"LoadingBar" : {
+		"bgtexture" : "",
 		"texture" : "",
 		"percent" : 0,
 		"direction" : 0

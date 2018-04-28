@@ -152,6 +152,7 @@
 		},
 		"LoadingBar" : {
 			"type" : "LoadingBar",
+			"bgtexture" : "qco/slider.png",
 			"texture" : "qco/slider.png",
 			"percent" : 100,
 			"direction" : 0

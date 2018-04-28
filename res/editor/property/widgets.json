@@ -222,6 +222,7 @@
 		"name" : "LoadingBar",
 		"parent" : "Widget", 
 		"property" : {
+			"bgtexture" : ["Image", "纹理"],
 			"texture" : ["Image", "纹理"],
 			"direction" : ["LoadingBarDirection", "方向"],
 			"percent" : ["float", "进度"]
